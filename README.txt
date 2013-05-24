@@ -11,6 +11,8 @@ wanted to see the code available again.
 
 -- André
 
+see also: http://git.infradead.org/users/tgr/bmon.git
+
 The orgininal License of bmon, according to debian is:
 
 Copyright (c) 2001-2004 Thomas Graf <tgraf@suug.ch>
